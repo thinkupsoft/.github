@@ -2,7 +2,7 @@
 
 ## We are a mobile app **development company**
 
-![Alt text](../res/TU5A-50.jpg)
+![Alt text](https://github.com/thinkupsoft/TKUP-docs/blob/develop/resources/access-add.png)
 
 ThinkUp was co-founded in 2016 by a group of passionate people with the vision to design and develop revolutionary and innovative mobile apps.
 
